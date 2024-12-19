@@ -1,0 +1,1 @@
+COULD_NOT_CREATE_TABLE = "Couldn't create table {}. Here's why: {}: {}"

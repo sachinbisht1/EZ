@@ -1,0 +1,5 @@
+"""All endpoints for survey upload."""
+DATA_ROUTER = "/data"
+UPLOAD_DATA = "/upload-data"
+GET_DATA = "/get-data"
+GET_DATA_LIST = "/get-data-list"

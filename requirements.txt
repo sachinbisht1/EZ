@@ -1,0 +1,6 @@
+pyotp
+pytz
+fastapi_mail
+pydantic_extra_types
+python-multipart==0.0.9
+geopy
